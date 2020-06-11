@@ -1,7 +1,7 @@
 public class DuplStr {
  public static void main(String argu[]) {
 
-  String str = "w3schools";
+  String str = "I love my india";
   int cnt = 0;
   char[] inp = str.toCharArray();
   System.out.println("Duplicate Characters are:");
