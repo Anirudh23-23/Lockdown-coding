@@ -1,6 +1,5 @@
 int count(int n) 
 { 
-
     if (n < 3) 
 
         return n; 
@@ -16,8 +15,6 @@ int count(int n)
         power = power*10; 
 
     int x=n/power; 
-
-  
 
     if (x!=3) 
 
